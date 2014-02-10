@@ -2,8 +2,9 @@ NotesTrainer_Guitar
 ===================
 
 The program shows a note. You have to play it on a real guitar
-http://rghost.ru/47575971 download working version NoteTrainer_v1.zip (619.7 КБ)
-russian forum - http://school.4igi.ru/index.php?topic=2715.0 (you can write in English)
+http://rghost.ru/49528672 download working version NoteTrainer_3.zip (542.3 КБ)
+
+Russian forum - http://school.4igi.ru/index.php?topic=2715.0 (you can write in English)
 
 
 translate.google.com
