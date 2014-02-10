@@ -6,6 +6,8 @@ http://rghost.ru/49528672 download working version NoteTrainer_3.zip (542.3 КБ
 
 Russian forum - http://school.4igi.ru/index.php?topic=2715.0 (you can write in English)
 
+English forum - https://class.coursera.org/guitar-004/forum/thread?thread_id=200
+
 
 translate.google.com
 This program is designed to study music, playing the guitar or other musical instrument.
